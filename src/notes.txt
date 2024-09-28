@@ -1,0 +1,9 @@
+learn again these concepts
+
+functional components memo- pure components
+
+forward refs  control refs from another component or child 
+
+portals  render child component somewhere breaking out of the parent dom node and render somwwhere else
+
+error boundaries -  shows fallback ui for certail component rather than breaking whole app
